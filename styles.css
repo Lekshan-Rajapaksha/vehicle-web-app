@@ -78,6 +78,15 @@ header nav ul li a:hover {
     margin-bottom: 30px;
 }
 
+.special-subheading {
+    color: #007bff;
+    font-size: 24px;
+    font-style: italic;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
 .btn {
     display: inline-block;
     background: #007bff;
